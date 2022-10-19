@@ -1,204 +1,130 @@
-https://modrinth.com/mod/advanced-tooltips
-https://modrinth.com/mod/advancementinfo
-https://modrinth.com/mod/3dskinlayers
-https://modrinth.com/mod/antighost
-https://modrinth.com/mod/architectury-api
-https://modrinth.com/mod/animatica
-https://modrinth.com/mod/better-mount-hud
-https://modrinth.com/mod/brb x
-https://modrinth.com/mod/betterf3
-https://modrinth.com/mod/bobby x
-https://modrinth.com/mod/borderless-mining
-https://modrinth.com/mod/cit-resewn
-https://modrinth.com/mod/capes
-https://modrinth.com/mod/charmonium
-https://modrinth.com/mod/chest-tracker
-https://modrinth.com/mod/chunky
-https://modrinth.com/mod/clickthrough
-https://modrinth.com/mod/colormatic x
-https://modrinth.com/mod/c2me-fabric
-https://modrinth.com/mod/continuity
-https://modrinth.com/mod/cull-less-leaves
-https://modrinth.com/mod/dashloader
-https://modrinth.com/mod/debugify
-https://modrinth.com/mod/dripsounds-fabric
-https://modrinth.com/mod/dcch
-https://modrinth.com/mod/dynamic-fps
-https://modrinth.com/mod/ebe
-https://modrinth.com/mod/entity-collision-fps-fix
-https://modrinth.com/mod/entitytexturefeatures
-https://modrinth.com/mod/entityculling
-https://modrinth.com/mod/exordium
-https://modrinth.com/mod/extrasounds
-https://modrinth.com/mod/fabric-api
-https://modrinth.com/mod/fabric-language-kotlin
-https://modrinth.com/mod/fastanim
-https://modrinth.com/mod/fabrishot
-https://modrinth.com/mod/fallingleaves
-https://modrinth.com/mod/fastload
-https://modrinth.com/mod/gamma-utils
-https://modrinth.com/mod/immediatelyfast
-https://modrinth.com/mod/ferrite-core
-https://modrinth.com/mod/iris
-https://modrinth.com/mod/indium
-https://modrinth.com/mod/isometric-renders
-https://modrinth.com/mod/item-model-fix
-https://modrinth.com/mod/lambdynamiclights
-https://modrinth.com/mod/lazydfu
-https://modrinth.com/mod/lambdabettergrass
-https://modrinth.com/mod/language-reload
-https://modrinth.com/mod/lithium
-https://modrinth.com/mod/magiclib
-https://modrinth.com/mod/main-menu-credits
-https://modrinth.com/mod/memoryleakfix
-https://modrinth.com/mod/midnightcontrols
-https://modrinth.com/mod/mixin-conflict-helper
-https://modrinth.com/mod/mixintrace
-https://modrinth.com/mod/modmenu
-https://modrinth.com/mod/moreculling
-https://modrinth.com/mod/morechathistory
-https://modrinth.com/mod/mouse-tweaks
-https://modrinth.com/mod/no-chat-reports
-https://modrinth.com/mod/notenoughcrashes
-https://modrinth.com/mod/noxesium
-https://modrinth.com/mod/optigui
-https://modrinth.com/mod/plasmo-voice
-https://modrinth.com/mod/presence-footsteps
-https://modrinth.com/mod/puzzle
-https://modrinth.com/mod/raknetify x
-https://modrinth.com/mod/reeses-sodium-options
-https://modrinth.com/mod/replaymod
-https://modrinth.com/mod/smoothboot-fabric
-https://modrinth.com/mod/sodium
-https://modrinth.com/mod/sodium-extra
-https://modrinth.com/mod/sound-physics-remastered
-https://modrinth.com/mod/starlight
-https://modrinth.com/mod/stendhal
-https://modrinth.com/mod/tmp
-https://modrinth.com/mod/tooltipfix
-https://modrinth.com/mod/tweakermore
-https://modrinth.com/mod/visuality
-https://modrinth.com/mod/yacl
-https://modrinth.com/mod/zoomify
-https://modrinth.com/mod/spark
+### modlist
 
 
-https://modrinth.com/mod/audio-engine-tweaks/version/wyWl0F0J
-https://modrinth.com/mod/cem/version/pobVcvCg
-https://modrinth.com/mod/forge-config-api-port/version/XhjJZ5uE
-https://modrinth.com/mod/nbttooltip/version/JUXXOa5B
-https://modrinth.com/mod/raknetify/version/9vH1TfL3
-https://modrinth.com/mod/wavey-capes/version/QaPiuuaV
-https://modrinth.com/mod/yosbr/version/dStXfyg3
+<details><summary>API & libarys </summary>
 
-https://curseforge.com/minecraft/mc-mods/malilib
-https://curseforge.com/minecraft/mc-mods/litematica
-https://curseforge.com/minecraft/mc-mods/minihud
-https://curseforge.com/minecraft/mc-mods/tweakeroo
-https://curseforge.com/minecraft/mc-mods/worldedit
-https://curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition
-https://curseforge.com/minecraft/mc-mods/xaeros-world-map
-https://modrinth.com/mod/oh-my-minecraft-client 
+Architectury API - https://modrinth.com/mod/architectury-api
+Custom Entity Models - https://modrinth.com/mod/cem
+DashLoader- https://modrinth.com/mod/dashloader
+Fabric API - https://modrinth.com/mod/fabric-api
+Fabric Language Kotlin - https://modrinth.com/mod/fabric-language-kotlin
+Fabric Language Kotlin - https://modrinth.com/mod/fabric-language-kotlin
+Forge Config API Port - https://modrinth.com/mod/forge-config-api-port
+MagicLib - https://modrinth.com/mod/magiclib
+Main Menu Credits - https://modrinth.com/mod/main-menu-credits
+Puzzle - https://modrinth.com/mod/puzzle
+YetAnotherConfigLib - https://modrinth.com/mod/yacl
 
+</details>
 
-advanced-tooltips
-advancementinfo
-3dskinlayers
-antighost
-architectury-api
-animatica
-better-mount-hud
-brb x
-betterf3
-bobby x
-borderless-mining
-cit-resewn
-capes
-charmonium
-chest-tracker
-chunky
-clickthrough
-colormatic x
-c2me-fabric
-continuity
-cull-less-leaves
-dashloader
-debugify
-dripsounds-fabric
-dcch
-dynamic-fps
-ebe
-entity-collision-fps-fix
-entitytexturefeatures
-entityculling
-exordium
-extrasounds
-fabric-api
-fabric-language-kotlin
-fastanim
-fabrishot
-fallingleaves
-fastload
-gamma-utils
-immediatelyfast
-ferrite-core
-iris
-indium
-isometric-renders
-item-model-fix
-lambdynamiclights
-lazydfu
-lambdabettergrass
-language-reload
-lithium
-magiclib
-main-menu-credits
-memoryleakfix
-midnightcontrols
-mixin-conflict-helper
-mixintrace
-modmenu
-moreculling
-morechathistory
-mouse-tweaks
-no-chat-reports
-notenoughcrashes
-noxesium
-optigui
-plasmo-voice
-presence-footsteps
-puzzle
-raknetify x
-reeses-sodium-options
-replaymod
-smoothboot-fabric
-sodium
-sodium-extra
-sound-physics-remastered
-starlight
-stendhal
-tmp
-tooltipfix
-tweakermore
-visuality
-yacl
-zoomify
-spark
+<details><summary>performance</summary>
+
+Audio Engine Tweaks - https://modrinth.com/mod/audio-engine-tweaks
+Concurrent Chunk Management Engine (Fabric) - https://modrinth.com/mod/c2me-fabric
+Cull Less Leaves - https://modrinth.com/mod/cull-less-leaves
+Debugify - https://modrinth.com/mod/debugify
+Dynamic FPS - https://modrinth.com/mod/dynamic-fps
+Entity Collision FPS Fix - https://modrinth.com/mod/entity-collision-fps-fix
+EntityCulling - https://modrinth.com/mod/entityculling
+Exordium - https://modrinth.com/mod/exordium
+FastAnim - https://modrinth.com/mod/fastanim
+Fastload - https://modrinth.com/mod/fastload
+ImmediatelyFast - https://modrinth.com/mod/immediatelyfast]"
+Indium - https://modrinth.com/mod/indium
+Language Reload - https://modrinth.com/mod/language-reload
+LazyDFU - https://modrinth.com/mod/lazydfu
+Lithium - https://modrinth.com/mod/lithium
+Memory Leak Fix - https://modrinth.com/mod/memoryleakfix
+More Culling - https://modrinth.com/mod/moreculling
+Noxesium - https://modrinth.com/mod/noxesium
+Raknetify - https://modrinth.com/mod/raknetify
+Raknetify - https://modrinth.com/mod/raknetify
+Smooth Boot (Fabric) - https://modrinth.com/mod/smoothboot-fabric
+Sodium - https://modrinth.com/mod/sodium
+Starlight (Fabric) - https://modrinth.com/mod/starlight
+
+</details>
+
+<details><summary>Makes game look nicer</summary>
+
+3D Skin Layers - https://modrinth.com/mod/3dskinlayers
+Advanced Tooltips - https://modrinth.com/mod/advanced-tooltips
+Animatica - https://modrinth.com/mod/animatica
+Charmonium - https://modrinth.com/mod/charmonium
+Colormatic - https://modrinth.com/mod/colormatic
+Continuity - https://modrinth.com/mod/continuity
+Drip Sounds (Fabric) - https://modrinth.com/mod/dripsounds-fabric
+Entity Texture Features - https://modrinth.com/mod/entitytexturefeatures
+Falling Leaves - https://modrinth.com/mod/fallingleaves
+Iris Shaders - https://modrinth.com/mod/iris
+LambDynamicLights - https://modrinth.com/mod/lambdynamiclights
+LambdaBetterGrass - https://modrinth.com/mod/lambdabettergrass
+OptiGUI - https://modrinth.com/mod/optigui
+Presence Footsteps - https://modrinth.com/mod/presence-footsteps
+Visuality - https://modrinth.com/mod/visuality
+Wavey Capes - https://modrinth.com/mod/wavey-capes]"
+
+</details>
 
 
-audio-engine-tweaks
-cem
-forge-config-api-port
-nbttooltip
-raknetify
-wavey-capes
-yosbr
+<details><summary>utility</summary>
 
-malilib
+AdvancementInfo - https://modrinth.com/mod/advancementinfo
+AntiGhost - https://modrinth.com/mod/antighost
+Better Mount HUD - https://modrinth.com/mod/better-mount-hud
+Better Recipe Book - https://modrinth.com/mod/brb
+BetterF3 - https://modrinth.com/mod/betterf3
+Borderless Mining - https://modrinth.com/mod/borderless-mining
+CIT Resewn - https://modrinth.com/mod/cit-resewn
+Capes - https://modrinth.com/mod/capes
+ChestTracker - https://modrinth.com/mod/chest-tracker
+Chunky - https://modrinth.com/mod/chunky
+ClickThrough - https://modrinth.com/mod/clickthrough
+Don't Clear Chat History - https://modrinth.com/mod/dcch
+Enhanced Block Entities - https://modrinth.com/mod/ebe
+Fabrishot - https://modrinth.com/mod/fabrishot
+FerriteCore - https://modrinth.com/mod/ferrite-core
+Gamma Utils - https://modrinth.com/mod/gamma-utils
+Isometric Renders - https://modrinth.com/mod/isometric-renders
+Item Model Fix - https://modrinth.com/mod/item-model-fix
+MidnightControls - https://modrinth.com/mod/midnightcontrols
+Mixin Conflict Helper - https://modrinth.com/mod/mixin-conflict-helper
+Mod Menu - https://modrinth.com/mod/modmenu
+Mouse Tweaks - https://modrinth.com/mod/mouse-tweaks
+NBT Tooltip - https://modrinth.com/mod/nbttooltip
+Not Enough Crashes - https://modrinth.com/mod/notenoughcrashes
+Reese's Sodium Options - https://modrinth.com/mod/reeses-sodium-options
+ReplayMod - https://modrinth.com/mod/replaymod
+Sodium Extra - https://modrinth.com/mod/sodium-extra
+Sound Physics Remastered - https://modrinth.com/mod/sound-physics-remastered
+Stendhal - https://modrinth.com/mod/stendhal
+Too Many Players - https://modrinth.com/mod/tmp
+ToolTipFix - https://modrinth.com/mod/tooltipfix
+TweakerMore - https://modrinth.com/mod/tweakermore
+Your Options Shall Be Respected (YOSBR) - https://modrinth.com/mod/yosbr]"
+Zoomify - https://modrinth.com/mod/zoomify
+spark - https://modrinth.com/mod/spark
+
+</details>
+
+
+<details><summary>social</summary>
+
+MoreChatHistory - https://modrinth.com/mod/morechathistory
+No Chat Reports - https://modrinth.com/mod/no-chat-reports
+Plasmo Voice - https://modrinth.com/mod/plasmo-voice]"
+
+</details>
+
+<details><summary>Need to sort</summary>
+
 litematica
+malilib
 minihud
+oh-my-minecraft-client
 tweakeroo
 worldedit
 xaeros-minimap-fair-play-edition
 xaeros-world-map
-oh-my-minecraft-client 
+
+</details>

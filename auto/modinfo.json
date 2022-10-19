@@ -1,0 +1,951 @@
+{
+  "decoration": {
+    "Array": [
+      {
+        "name": " Advanced Tooltips",
+        "url": "https://modrinth.com/mod/advanced-tooltips",
+        "description": "More and better tooltips on items! Fabric port of the Inspecio mod.",
+        "categories": [
+          "decoration",
+          "utility"
+        ],
+        "copyPate": "( Advanced Tooltips)[https://modrinth.com/mod/advanced-tooltips]"
+      },
+      {
+        "name": "3D Skin Layers",
+        "url": "https://modrinth.com/mod/3dskinlayers",
+        "description": "Render the player skin layer in 3d!",
+        "categories": [
+          "adventure",
+          "decoration"
+        ],
+        "copyPate": "(3D Skin Layers)[https://modrinth.com/mod/3dskinlayers]"
+      },
+      {
+        "name": "Animatica",
+        "url": "https://modrinth.com/mod/animatica",
+        "description": "A mod implementing the OptiFine/MCPatcher animated texture format",
+        "categories": [
+          "decoration",
+          "utility"
+        ],
+        "copyPate": "(Animatica)[https://modrinth.com/mod/animatica]"
+      },
+      {
+        "name": "Charmonium",
+        "url": "https://modrinth.com/mod/charmonium",
+        "description": "Ambient sounds and music in keeping with vanilla Minecraft",
+        "categories": [
+          "decoration"
+        ],
+        "copyPate": "(Charmonium)[https://modrinth.com/mod/charmonium]"
+      },
+      {
+        "name": "Colormatic",
+        "url": "https://modrinth.com/mod/colormatic",
+        "description": "Enables resource packs to add and change block and biome colors.",
+        "categories": [
+          "decoration",
+          "utility"
+        ],
+        "copyPate": "(Colormatic)[https://modrinth.com/mod/colormatic]"
+      },
+      {
+        "name": "LambDynamicLights",
+        "url": "https://modrinth.com/mod/lambdynamiclights",
+        "description": "A dynamic lights mod for Fabric.",
+        "categories": [
+          "adventure",
+          "decoration",
+          "utility"
+        ],
+        "copyPate": "(LambDynamicLights)[https://modrinth.com/mod/lambdynamiclights]"
+      },
+      {
+        "name": "Continuity",
+        "url": "https://modrinth.com/mod/continuity",
+        "description": "A Fabric mod that allows for efficient connected textures",
+        "categories": [
+          "",
+          "utility"
+        ],
+        "copyPate": "(Continuity)[https://modrinth.com/mod/continuity]"
+      },
+      {
+        "name": "LambdaBetterGrass",
+        "url": "https://modrinth.com/mod/lambdabettergrass",
+        "description": "A Minecraft mod which adds better grass and snow to the game.",
+        "categories": [
+          "decoration"
+        ],
+        "copyPate": "(LambdaBetterGrass)[https://modrinth.com/mod/lambdabettergrass]"
+      },
+      {
+        "name": "Iris Shaders",
+        "url": "https://modrinth.com/mod/iris",
+        "description": "A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs",
+        "categories": [
+          "decoration",
+          "optimization"
+        ],
+        "copyPate": "(Iris Shaders)[https://modrinth.com/mod/iris]"
+      },
+      {
+        "name": "Presence Footsteps",
+        "url": "https://modrinth.com/mod/presence-footsteps",
+        "description": "..An Overly complicated Sound Mod...",
+        "categories": [
+          "decoration"
+        ],
+        "copyPate": "(Presence Footsteps)[https://modrinth.com/mod/presence-footsteps]"
+      },
+      {
+        "name": "OptiGUI",
+        "url": "https://modrinth.com/mod/optigui",
+        "description": "A client side drop-in replacement for OptiFine custom GUIs",
+        "categories": [
+          "decoration"
+        ],
+        "copyPate": "(OptiGUI)[https://modrinth.com/mod/optigui]"
+      },
+      {
+        "name": "Visuality",
+        "url": "https://modrinth.com/mod/visuality",
+        "description": "Little visual improvements by adding a bunch of new particles.",
+        "categories": [
+          "decoration"
+        ],
+        "copyPate": "(Visuality)[https://modrinth.com/mod/visuality]"
+      },
+      {
+        "name": "Drip Sounds (Fabric)",
+        "url": "https://modrinth.com/mod/dripsounds-fabric",
+        "description": "Adds sounds for drip particles landing",
+        "categories": [
+          "decoration"
+        ],
+        "copyPate": "(Drip Sounds (Fabric))[https://modrinth.com/mod/dripsounds-fabric]"
+      },
+      {
+        "name": "Falling Leaves",
+        "url": "https://modrinth.com/mod/fallingleaves",
+        "description": "Adds a neat little particle effect to leaf blocks",
+        "categories": [
+          "decoration"
+        ],
+        "copyPate": "(Falling Leaves)[https://modrinth.com/mod/fallingleaves]"
+      },
+      {
+        "name": "Entity Texture Features",
+        "url": "https://modrinth.com/mod/entitytexturefeatures",
+        "description": "Emissive, Random & Custom texture support for entities in resourcepacks just like Optifine but for Fabric",
+        "categories": [
+          "decoration",
+          "utility"
+        ],
+        "copyPate": "(Entity Texture Features)[https://modrinth.com/mod/entitytexturefeatures]"
+      },
+      {
+        "name": "Wavey Capes",
+        "url": "https://modrinth.com/mod/wavey-capes",
+        "description": "The cape shouldn't be a static slab",
+        "categories": [
+          "decoration"
+        ],
+        "copyPate": "(Wavey Capes)[https://modrinth.com/mod/wavey-capes]"
+      }
+    ],
+    "Links": [
+      "( Advanced Tooltips)[https://modrinth.com/mod/advanced-tooltips]",
+      "(3D Skin Layers)[https://modrinth.com/mod/3dskinlayers]",
+      "(Animatica)[https://modrinth.com/mod/animatica]",
+      "(Charmonium)[https://modrinth.com/mod/charmonium]",
+      "(Colormatic)[https://modrinth.com/mod/colormatic]",
+      "(LambDynamicLights)[https://modrinth.com/mod/lambdynamiclights]",
+      "(Continuity)[https://modrinth.com/mod/continuity]",
+      "(LambdaBetterGrass)[https://modrinth.com/mod/lambdabettergrass]",
+      "(Iris Shaders)[https://modrinth.com/mod/iris]",
+      "(Presence Footsteps)[https://modrinth.com/mod/presence-footsteps]",
+      "(OptiGUI)[https://modrinth.com/mod/optigui]",
+      "(Visuality)[https://modrinth.com/mod/visuality]",
+      "(Drip Sounds (Fabric))[https://modrinth.com/mod/dripsounds-fabric]",
+      "(Falling Leaves)[https://modrinth.com/mod/fallingleaves]",
+      "(Entity Texture Features)[https://modrinth.com/mod/entitytexturefeatures]",
+      "(Wavey Capes)[https://modrinth.com/mod/wavey-capes]"
+    ]
+  },
+  "utility": {
+    "Array": [
+      {
+        "name": "Better Mount HUD",
+        "url": "https://modrinth.com/mod/better-mount-hud",
+        "description": "Improves the ingame HUD while riding a mount",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(Better Mount HUD)[https://modrinth.com/mod/better-mount-hud]"
+      },
+      {
+        "name": "AdvancementInfo",
+        "url": "https://modrinth.com/mod/advancementinfo",
+        "description": "Show more information about advancement requirements",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(AdvancementInfo)[https://modrinth.com/mod/advancementinfo]"
+      },
+      {
+        "name": "BetterF3",
+        "url": "https://modrinth.com/mod/betterf3",
+        "description": "BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(BetterF3)[https://modrinth.com/mod/betterf3]"
+      },
+      {
+        "name": "AntiGhost",
+        "url": "https://modrinth.com/mod/antighost",
+        "description": "Get rid of ghost blocks by requesting resends from the server",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(AntiGhost)[https://modrinth.com/mod/antighost]"
+      },
+      {
+        "name": "CIT Resewn",
+        "url": "https://modrinth.com/mod/cit-resewn",
+        "description": "Re-implements MCPatcher's CIT (custom item textures from optifine resource packs)",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(CIT Resewn)[https://modrinth.com/mod/cit-resewn]"
+      },
+      {
+        "name": "Debugify",
+        "url": "https://modrinth.com/mod/debugify",
+        "description": "Fixes Minecraft bugs found on the bug tracker",
+        "categories": [
+          "optimization",
+          "utility"
+        ],
+        "copyPate": "(Debugify)[https://modrinth.com/mod/debugify]"
+      },
+      {
+        "name": "Enhanced Block Entities",
+        "url": "https://modrinth.com/mod/ebe",
+        "description": "Reduce FPS lag with block entities, as well as customize them with resource packs",
+        "categories": [
+          "optimization",
+          "utility"
+        ],
+        "copyPate": "(Enhanced Block Entities)[https://modrinth.com/mod/ebe]"
+      },
+      {
+        "name": "Don't Clear Chat History",
+        "url": "https://modrinth.com/mod/dcch",
+        "description": "Updated fork. Simple one-mixin mod that doesn't clear the messages you've sent from up arrow on disconnect/relog.",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(Don't Clear Chat History)[https://modrinth.com/mod/dcch]"
+      },
+      {
+        "name": "Dynamic FPS",
+        "url": "https://modrinth.com/mod/dynamic-fps",
+        "description": "Improve performance when Minecraft is in the background.",
+        "categories": [
+          "optimization",
+          "utility"
+        ],
+        "copyPate": "(Dynamic FPS)[https://modrinth.com/mod/dynamic-fps]"
+      },
+      {
+        "name": "Chunky",
+        "url": "https://modrinth.com/mod/chunky",
+        "description": "Pre-generates chunks, quickly and efficiently",
+        "categories": [
+          "optimization",
+          "utility",
+          "worldgen"
+        ],
+        "copyPate": "(Chunky)[https://modrinth.com/mod/chunky]"
+      },
+      {
+        "name": "ChestTracker",
+        "url": "https://modrinth.com/mod/chest-tracker",
+        "description": "Client-side addon for WhereIsIt to remember positions.",
+        "categories": [
+          "storage",
+          "utility"
+        ],
+        "copyPate": "(ChestTracker)[https://modrinth.com/mod/chest-tracker]"
+      },
+      {
+        "name": "FerriteCore",
+        "url": "https://modrinth.com/mod/ferrite-core",
+        "description": "Memory usage optimizations",
+        "categories": [
+          "optimization",
+          "utility"
+        ],
+        "copyPate": "(FerriteCore)[https://modrinth.com/mod/ferrite-core]"
+      },
+      {
+        "name": "Borderless Mining",
+        "url": "https://modrinth.com/mod/borderless-mining",
+        "description": "Changes Fullscreen to use a borderless window.",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(Borderless Mining)[https://modrinth.com/mod/borderless-mining]"
+      },
+      {
+        "name": "Better Recipe Book",
+        "url": "https://modrinth.com/mod/brb",
+        "description": " Adds a 'few' quality of life changes to the recipe book. ",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(Better Recipe Book)[https://modrinth.com/mod/brb]"
+      },
+      {
+        "name": "Fabrishot",
+        "url": "https://modrinth.com/mod/fabrishot",
+        "description": "Take insanely large screenshots because why not",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(Fabrishot)[https://modrinth.com/mod/fabrishot]"
+      },
+      {
+        "name": "Mod Menu",
+        "url": "https://modrinth.com/mod/modmenu",
+        "description": "Adds a mod menu to view the list of mods you have installed.",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(Mod Menu)[https://modrinth.com/mod/modmenu]"
+      },
+      {
+        "name": "Item Model Fix",
+        "url": "https://modrinth.com/mod/item-model-fix",
+        "description": "A Fabric mod that fixes gaps in generated item models. ",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(Item Model Fix)[https://modrinth.com/mod/item-model-fix]"
+      },
+      {
+        "name": "Mixin Conflict Helper",
+        "url": "https://modrinth.com/mod/mixin-conflict-helper",
+        "description": "User-friendly errors for Mixin conflicts.",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(Mixin Conflict Helper)[https://modrinth.com/mod/mixin-conflict-helper]"
+      },
+      {
+        "name": "MidnightControls",
+        "url": "https://modrinth.com/mod/midnightcontrols",
+        "description": "Adds controller support and enhanced controls overall.",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(MidnightControls)[https://modrinth.com/mod/midnightcontrols]"
+      },
+      {
+        "name": "Isometric Renders",
+        "url": "https://modrinth.com/mod/isometric-renders",
+        "description": "Creates high-resolution isometric screenshots of game objects",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(Isometric Renders)[https://modrinth.com/mod/isometric-renders]"
+      },
+      {
+        "name": "Language Reload",
+        "url": "https://modrinth.com/mod/language-reload",
+        "description": "Reduces load times and adds fallbacks for languages",
+        "categories": [
+          "optimization",
+          "utility"
+        ],
+        "copyPate": "(Language Reload)[https://modrinth.com/mod/language-reload]"
+      },
+      {
+        "name": "Indium",
+        "url": "https://modrinth.com/mod/indium",
+        "description": "Sodium addon providing support for the Fabric Rendering API, based on Indigo",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(Indium)[https://modrinth.com/mod/indium]"
+      },
+      {
+        "name": "Sound Physics Remastered",
+        "url": "https://modrinth.com/mod/sound-physics-remastered",
+        "description": "A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.",
+        "categories": [
+          "adventure",
+          "utility"
+        ],
+        "copyPate": "(Sound Physics Remastered)[https://modrinth.com/mod/sound-physics-remastered]"
+      },
+      {
+        "name": "Smooth Boot (Fabric)",
+        "url": "https://modrinth.com/mod/smoothboot-fabric",
+        "description": "Improve Minecraft CPU scheduling",
+        "categories": [
+          "optimization",
+          "utility"
+        ],
+        "copyPate": "(Smooth Boot (Fabric))[https://modrinth.com/mod/smoothboot-fabric]"
+      },
+      {
+        "name": "Sodium Extra",
+        "url": "https://modrinth.com/mod/sodium-extra",
+        "description": "Features that shouldn't be in Sodium.",
+        "categories": [
+          "cursed",
+          "utility"
+        ],
+        "copyPate": "(Sodium Extra)[https://modrinth.com/mod/sodium-extra]"
+      },
+      {
+        "name": "ReplayMod",
+        "url": "https://modrinth.com/mod/replaymod",
+        "description": "A Minecraft Mod to record, relive and share your experience.",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(ReplayMod)[https://modrinth.com/mod/replaymod]"
+      },
+      {
+        "name": "ClickThrough",
+        "url": "https://modrinth.com/mod/clickthrough",
+        "description": "Click through signs and item frames to chests",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(ClickThrough)[https://modrinth.com/mod/clickthrough]"
+      },
+      {
+        "name": "Not Enough Crashes",
+        "url": "https://modrinth.com/mod/notenoughcrashes",
+        "description": "When crashing, you can go back to the title screen and keep playing, without needing to restart, alongside other things to make crashes more pleasant.",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(Not Enough Crashes)[https://modrinth.com/mod/notenoughcrashes]"
+      },
+      {
+        "name": "Capes",
+        "url": "https://modrinth.com/mod/capes",
+        "description": "Lets you use capes from OptiFine, LabyMod and other cape mods",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(Capes)[https://modrinth.com/mod/capes]"
+      },
+      {
+        "name": "Reese's Sodium Options",
+        "url": "https://modrinth.com/mod/reeses-sodium-options",
+        "description": "Alternative Options Menu for Sodium",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(Reese's Sodium Options)[https://modrinth.com/mod/reeses-sodium-options]"
+      },
+      {
+        "name": "Too Many Players",
+        "url": "https://modrinth.com/mod/tmp",
+        "description": "Allows you to increase FPS with a large crowd of players",
+        "categories": [
+          "optimization",
+          "utility"
+        ],
+        "copyPate": "(Too Many Players)[https://modrinth.com/mod/tmp]"
+      },
+      {
+        "name": "ToolTipFix",
+        "url": "https://modrinth.com/mod/tooltipfix",
+        "description": "Fixes Tooltips from runnning off the screen.",
+        "categories": [
+          "optimization",
+          "utility"
+        ],
+        "copyPate": "(ToolTipFix)[https://modrinth.com/mod/tooltipfix]"
+      },
+      {
+        "name": "Stendhal",
+        "url": "https://modrinth.com/mod/stendhal",
+        "description": "Stendhal is a client-side Fabric mod offering new and enhanced visual utilities for books, signs, anvil and the in-game chat.",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(Stendhal)[https://modrinth.com/mod/stendhal]"
+      },
+      {
+        "name": "Gamma Utils",
+        "url": "https://modrinth.com/mod/gamma-utils",
+        "description": "Gamma / brightness / night vision mod, making it easy to see in the dark. Basically fullbright for Fabric.",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(Gamma Utils)[https://modrinth.com/mod/gamma-utils]"
+      },
+      {
+        "name": "Mouse Tweaks",
+        "url": "https://modrinth.com/mod/mouse-tweaks",
+        "description": "Enhances inventory management by adding various functions to the mouse buttons. ",
+        "categories": [
+          "storage",
+          "utility"
+        ],
+        "copyPate": "(Mouse Tweaks)[https://modrinth.com/mod/mouse-tweaks]"
+      },
+      {
+        "name": "TweakerMore",
+        "url": "https://modrinth.com/mod/tweakermore",
+        "description": "A collection of client-side tweak kits to enhance your Minecraft game experience. Tweak Minecraft and beyond!",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(TweakerMore)[https://modrinth.com/mod/tweakermore]"
+      },
+      {
+        "name": "spark",
+        "url": "https://modrinth.com/mod/spark",
+        "description": "spark is a performance profiler for Minecraft clients, servers and proxies.",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(spark)[https://modrinth.com/mod/spark]"
+      },
+      {
+        "name": "Zoomify",
+        "url": "https://modrinth.com/mod/zoomify",
+        "description": "A zoom mod with infinite customizability.",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(Zoomify)[https://modrinth.com/mod/zoomify]"
+      },
+      {
+        "name": "NBT Tooltip",
+        "url": "https://modrinth.com/mod/nbttooltip",
+        "description": "Shows items' NBT data in their tooltip",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(NBT Tooltip)[https://modrinth.com/mod/nbttooltip]"
+      },
+      {
+        "name": "Audio Engine Tweaks",
+        "url": "https://modrinth.com/mod/audio-engine-tweaks",
+        "description": "this mod changes how Minecraft schedules sounds in order to prevent the sound pool to fill up",
+        "categories": [
+          "optimization",
+          "utility"
+        ],
+        "copyPate": "(Audio Engine Tweaks)[https://modrinth.com/mod/audio-engine-tweaks]"
+      },
+      {
+        "name": "Your Options Shall Be Respected (YOSBR)",
+        "url": "https://modrinth.com/mod/yosbr",
+        "description": "Your options shall be respected.",
+        "categories": [
+          "utility"
+        ],
+        "copyPate": "(Your Options Shall Be Respected (YOSBR))[https://modrinth.com/mod/yosbr]"
+      }
+    ],
+    "Links": [
+      "(Better Mount HUD)[https://modrinth.com/mod/better-mount-hud]",
+      "(AdvancementInfo)[https://modrinth.com/mod/advancementinfo]",
+      "(BetterF3)[https://modrinth.com/mod/betterf3]",
+      "(AntiGhost)[https://modrinth.com/mod/antighost]",
+      "(CIT Resewn)[https://modrinth.com/mod/cit-resewn]",
+      "(Debugify)[https://modrinth.com/mod/debugify]",
+      "(Enhanced Block Entities)[https://modrinth.com/mod/ebe]",
+      "(Don't Clear Chat History)[https://modrinth.com/mod/dcch]",
+      "(Dynamic FPS)[https://modrinth.com/mod/dynamic-fps]",
+      "(Chunky)[https://modrinth.com/mod/chunky]",
+      "(ChestTracker)[https://modrinth.com/mod/chest-tracker]",
+      "(FerriteCore)[https://modrinth.com/mod/ferrite-core]",
+      "(Borderless Mining)[https://modrinth.com/mod/borderless-mining]",
+      "(Better Recipe Book)[https://modrinth.com/mod/brb]",
+      "(Fabrishot)[https://modrinth.com/mod/fabrishot]",
+      "(Mod Menu)[https://modrinth.com/mod/modmenu]",
+      "(Item Model Fix)[https://modrinth.com/mod/item-model-fix]",
+      "(Mixin Conflict Helper)[https://modrinth.com/mod/mixin-conflict-helper]",
+      "(MidnightControls)[https://modrinth.com/mod/midnightcontrols]",
+      "(Isometric Renders)[https://modrinth.com/mod/isometric-renders]",
+      "(Language Reload)[https://modrinth.com/mod/language-reload]",
+      "(Indium)[https://modrinth.com/mod/indium]",
+      "(Sound Physics Remastered)[https://modrinth.com/mod/sound-physics-remastered]",
+      "(Smooth Boot (Fabric))[https://modrinth.com/mod/smoothboot-fabric]",
+      "(Sodium Extra)[https://modrinth.com/mod/sodium-extra]",
+      "(ReplayMod)[https://modrinth.com/mod/replaymod]",
+      "(ClickThrough)[https://modrinth.com/mod/clickthrough]",
+      "(Not Enough Crashes)[https://modrinth.com/mod/notenoughcrashes]",
+      "(Capes)[https://modrinth.com/mod/capes]",
+      "(Reese's Sodium Options)[https://modrinth.com/mod/reeses-sodium-options]",
+      "(Too Many Players)[https://modrinth.com/mod/tmp]",
+      "(ToolTipFix)[https://modrinth.com/mod/tooltipfix]",
+      "(Stendhal)[https://modrinth.com/mod/stendhal]",
+      "(Gamma Utils)[https://modrinth.com/mod/gamma-utils]",
+      "(Mouse Tweaks)[https://modrinth.com/mod/mouse-tweaks]",
+      "(TweakerMore)[https://modrinth.com/mod/tweakermore]",
+      "(spark)[https://modrinth.com/mod/spark]",
+      "(Zoomify)[https://modrinth.com/mod/zoomify]",
+      "(NBT Tooltip)[https://modrinth.com/mod/nbttooltip]",
+      "(Audio Engine Tweaks)[https://modrinth.com/mod/audio-engine-tweaks]",
+      "(Your Options Shall Be Respected (YOSBR))[https://modrinth.com/mod/yosbr]"
+    ]
+  },
+  "social": {
+    "Array": [
+      {
+        "name": "MoreChatHistory",
+        "url": "https://modrinth.com/mod/morechathistory",
+        "description": "Increases the maximum length of chat history.",
+        "categories": [
+          "social",
+          "utility"
+        ],
+        "copyPate": "(MoreChatHistory)[https://modrinth.com/mod/morechathistory]"
+      },
+      {
+        "name": "No Chat Reports",
+        "url": "https://modrinth.com/mod/no-chat-reports",
+        "description": "Makes chat unreportable (where possible)",
+        "categories": [
+          "social",
+          "utility"
+        ],
+        "copyPate": "(No Chat Reports)[https://modrinth.com/mod/no-chat-reports]"
+      },
+      {
+        "name": "Plasmo Voice",
+        "url": "https://modrinth.com/mod/plasmo-voice",
+        "description": "A proximity voice chat mod with audio positioning and lots of features",
+        "categories": [
+          "adventure",
+          "social",
+          "utility"
+        ],
+        "copyPate": "(Plasmo Voice)[https://modrinth.com/mod/plasmo-voice]"
+      }
+    ],
+    "Links": [
+      "(MoreChatHistory)[https://modrinth.com/mod/morechathistory]",
+      "(No Chat Reports)[https://modrinth.com/mod/no-chat-reports]",
+      "(Plasmo Voice)[https://modrinth.com/mod/plasmo-voice]"
+    ]
+  },
+  "storage": {
+    "Array": [],
+    "Links": []
+  },
+  "optimization": {
+    "Array": [
+      {
+        "name": "EntityCulling",
+        "url": "https://modrinth.com/mod/entityculling",
+        "description": "Using async path-tracing to hide Block-/Entities that are not visible",
+        "categories": [
+          "optimization"
+        ],
+        "copyPate": "(EntityCulling)[https://modrinth.com/mod/entityculling]"
+      },
+      {
+        "name": "Cull Less Leaves",
+        "url": "https://modrinth.com/mod/cull-less-leaves",
+        "description": "Cull leaves while looking hot!",
+        "categories": [
+          "optimization"
+        ],
+        "copyPate": "(Cull Less Leaves)[https://modrinth.com/mod/cull-less-leaves]"
+      },
+      {
+        "name": "FastAnim",
+        "url": "https://modrinth.com/mod/fastanim",
+        "description": "Speeds up entity animation calculations!",
+        "categories": [
+          "optimization"
+        ],
+        "copyPate": "(FastAnim)[https://modrinth.com/mod/fastanim]"
+      },
+      {
+        "name": "Exordium",
+        "url": "https://modrinth.com/mod/exordium",
+        "description": "Render the GUI and screens at a lower framerate to speed up what's really important: the worldrendering.",
+        "categories": [
+          "optimization"
+        ],
+        "copyPate": "(Exordium)[https://modrinth.com/mod/exordium]"
+      },
+      {
+        "name": "Entity Collision FPS Fix",
+        "url": "https://modrinth.com/mod/entity-collision-fps-fix",
+        "description": " Client Side mod that optimizes entity's on the render thread. Fixes https://bugs.mojang.com/browse/MC-228976 ",
+        "categories": [
+          "optimization"
+        ],
+        "copyPate": "(Entity Collision FPS Fix)[https://modrinth.com/mod/entity-collision-fps-fix]"
+      },
+      {
+        "name": "LazyDFU",
+        "url": "https://modrinth.com/mod/lazydfu",
+        "description": "Makes the game boot faster by deferring non-essential initialization",
+        "categories": [
+          "optimization"
+        ],
+        "copyPate": "(LazyDFU)[https://modrinth.com/mod/lazydfu]"
+      },
+      {
+        "name": "Fastload",
+        "url": "https://modrinth.com/mod/fastload",
+        "description": "Modifies the 441 Loading Engine to decrease world loading times.",
+        "categories": [
+          "optimization",
+          "worldgen"
+        ],
+        "copyPate": "(Fastload)[https://modrinth.com/mod/fastload]"
+      },
+      {
+        "name": "Memory Leak Fix",
+        "url": "https://modrinth.com/mod/memoryleakfix",
+        "description": "A mod that fixes random memory leaks for both the client and server",
+        "categories": [
+          "optimization"
+        ],
+        "copyPate": "(Memory Leak Fix)[https://modrinth.com/mod/memoryleakfix]"
+      },
+      {
+        "name": "More Culling",
+        "url": "https://modrinth.com/mod/moreculling",
+        "description": "A mod that changes how multiple types of culling are handled in order to improve performance",
+        "categories": [
+          "optimization"
+        ],
+        "copyPate": "(More Culling)[https://modrinth.com/mod/moreculling]"
+      },
+      {
+        "name": "Lithium",
+        "url": "https://modrinth.com/mod/lithium",
+        "description": "No-compromises game logic/server optimization mod",
+        "categories": [
+          "optimization"
+        ],
+        "copyPate": "(Lithium)[https://modrinth.com/mod/lithium]"
+      },
+      {
+        "name": "Noxesium",
+        "url": "https://modrinth.com/mod/noxesium",
+        "description": "A client-side fabric mod with various changes and performance improvements.",
+        "categories": [
+          "optimization"
+        ],
+        "copyPate": "(Noxesium)[https://modrinth.com/mod/noxesium]"
+      },
+      {
+        "name": "Sodium",
+        "url": "https://modrinth.com/mod/sodium",
+        "description": "Modern rendering engine and client-side optimization mod for Minecraft",
+        "categories": [
+          "optimization"
+        ],
+        "copyPate": "(Sodium)[https://modrinth.com/mod/sodium]"
+      },
+      {
+        "name": "Raknetify",
+        "url": "https://modrinth.com/mod/raknetify",
+        "description": "A Fabric mod / BungeeCord plugin that uses RakNet to improve multiplayer experience significantly under unreliable and rate-limited connections.",
+        "categories": [
+          "optimization"
+        ],
+        "copyPate": "(Raknetify)[https://modrinth.com/mod/raknetify]"
+      },
+      {
+        "name": "Starlight (Fabric)",
+        "url": "https://modrinth.com/mod/starlight",
+        "description": "Rewrites the light engine to fix lighting performance and lighting errors",
+        "categories": [
+          "optimization"
+        ],
+        "copyPate": "(Starlight (Fabric))[https://modrinth.com/mod/starlight]"
+      },
+      {
+        "name": "Concurrent Chunk Management Engine (Fabric)",
+        "url": "https://modrinth.com/mod/c2me-fabric",
+        "description": "A Fabric mod designed to improve the chunk performance of Minecraft.",
+        "categories": [
+          "optimization"
+        ],
+        "copyPate": "(Concurrent Chunk Management Engine (Fabric))[https://modrinth.com/mod/c2me-fabric]"
+      },
+      {
+        "name": "Raknetify",
+        "url": "https://modrinth.com/mod/raknetify",
+        "description": "A Fabric mod / BungeeCord plugin that uses RakNet to improve multiplayer experience significantly under unreliable and rate-limited connections.",
+        "categories": [
+          "optimization"
+        ],
+        "copyPate": "(Raknetify)[https://modrinth.com/mod/raknetify]"
+      },
+      {
+        "name": "ImmediatelyFast",
+        "url": "https://modrinth.com/mod/immediatelyfast",
+        "description": "Speed up immediate mode rendering in Minecraft",
+        "categories": [
+          "optimization"
+        ],
+        "copyPate": "(ImmediatelyFast)[https://modrinth.com/mod/immediatelyfast]"
+      }
+    ],
+    "Links": [
+      "(EntityCulling)[https://modrinth.com/mod/entityculling]",
+      "(Cull Less Leaves)[https://modrinth.com/mod/cull-less-leaves]",
+      "(FastAnim)[https://modrinth.com/mod/fastanim]",
+      "(Exordium)[https://modrinth.com/mod/exordium]",
+      "(Entity Collision FPS Fix)[https://modrinth.com/mod/entity-collision-fps-fix]",
+      "(LazyDFU)[https://modrinth.com/mod/lazydfu]",
+      "(Fastload)[https://modrinth.com/mod/fastload]",
+      "(Memory Leak Fix)[https://modrinth.com/mod/memoryleakfix]",
+      "(More Culling)[https://modrinth.com/mod/moreculling]",
+      "(Lithium)[https://modrinth.com/mod/lithium]",
+      "(Noxesium)[https://modrinth.com/mod/noxesium]",
+      "(Sodium)[https://modrinth.com/mod/sodium]",
+      "(Raknetify)[https://modrinth.com/mod/raknetify]",
+      "(Starlight (Fabric))[https://modrinth.com/mod/starlight]",
+      "(Concurrent Chunk Management Engine (Fabric))[https://modrinth.com/mod/c2me-fabric]",
+      "(Raknetify)[https://modrinth.com/mod/raknetify]",
+      "(ImmediatelyFast)[https://modrinth.com/mod/immediatelyfast]"
+    ]
+  },
+  "library": {
+    "Array": [
+      {
+        "name": "DashLoader",
+        "url": "https://modrinth.com/mod/dashloader",
+        "description": "Launch at the speed of light.",
+        "categories": [
+          "library",
+          "optimization",
+          "utility"
+        ],
+        "copyPate": "(DashLoader)[https://modrinth.com/mod/dashloader]"
+      },
+      {
+        "name": "Fabric Language Kotlin",
+        "url": "https://modrinth.com/mod/fabric-language-kotlin",
+        "description": "Fabric Language Kotlin",
+        "categories": [
+          "library"
+        ],
+        "copyPate": "(Fabric Language Kotlin)[https://modrinth.com/mod/fabric-language-kotlin]"
+      },
+      {
+        "name": "Main Menu Credits",
+        "url": "https://modrinth.com/mod/main-menu-credits",
+        "description": "Adds a way of adding information to the user's title screen.",
+        "categories": [
+          "library",
+          "utility"
+        ],
+        "copyPate": "(Main Menu Credits)[https://modrinth.com/mod/main-menu-credits]"
+      },
+      {
+        "name": "MagicLib",
+        "url": "https://modrinth.com/mod/magiclib",
+        "description": "To beat magic with magic :(",
+        "categories": [
+          "library"
+        ],
+        "copyPate": "(MagicLib)[https://modrinth.com/mod/magiclib]"
+      },
+      {
+        "name": "Architectury API",
+        "url": "https://modrinth.com/mod/architectury-api",
+        "description": "An intermediary api aimed to ease developing multiplatform mods.",
+        "categories": [
+          "library"
+        ],
+        "copyPate": "(Architectury API)[https://modrinth.com/mod/architectury-api]"
+      },
+      {
+        "name": "Fabric Language Kotlin",
+        "url": "https://modrinth.com/mod/fabric-language-kotlin",
+        "description": "Fabric Language Kotlin",
+        "categories": [
+          "library"
+        ],
+        "copyPate": "(Fabric Language Kotlin)[https://modrinth.com/mod/fabric-language-kotlin]"
+      },
+      {
+        "name": "Custom Entity Models",
+        "url": "https://modrinth.com/mod/cem",
+        "description": "Custom Entity Models suport on Fabric",
+        "categories": [
+          "library",
+          "utility"
+        ],
+        "copyPate": "(Custom Entity Models)[https://modrinth.com/mod/cem]"
+      },
+      {
+        "name": "YetAnotherConfigLib",
+        "url": "https://modrinth.com/mod/yacl",
+        "description": "A builder-based configuration library for Minecraft.",
+        "categories": [
+          "library",
+          "utility"
+        ],
+        "copyPate": "(YetAnotherConfigLib)[https://modrinth.com/mod/yacl]"
+      },
+      {
+        "name": "Fabric API",
+        "url": "https://modrinth.com/mod/fabric-api",
+        "description": "Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.",
+        "categories": [
+          "library"
+        ],
+        "copyPate": "(Fabric API)[https://modrinth.com/mod/fabric-api]"
+      },
+      {
+        "name": "Puzzle",
+        "url": "https://modrinth.com/mod/puzzle",
+        "description": "Adds resourcepack features and a GUI to more conveniently configure OptiFine alternatives.",
+        "categories": [
+          "library",
+          "utility"
+        ],
+        "copyPate": "(Puzzle)[https://modrinth.com/mod/puzzle]"
+      },
+      {
+        "name": "Forge Config API Port",
+        "url": "https://modrinth.com/mod/forge-config-api-port",
+        "description": "Yes, you're reading that correctly. This is the whole Forge Config API ported to Fabric.",
+        "categories": [
+          "library"
+        ],
+        "copyPate": "(Forge Config API Port)[https://modrinth.com/mod/forge-config-api-port]"
+      }
+    ],
+    "Links": [
+      "(DashLoader)[https://modrinth.com/mod/dashloader]",
+      "(Fabric Language Kotlin)[https://modrinth.com/mod/fabric-language-kotlin]",
+      "(Main Menu Credits)[https://modrinth.com/mod/main-menu-credits]",
+      "(MagicLib)[https://modrinth.com/mod/magiclib]",
+      "(Architectury API)[https://modrinth.com/mod/architectury-api]",
+      "(Fabric Language Kotlin)[https://modrinth.com/mod/fabric-language-kotlin]",
+      "(Custom Entity Models)[https://modrinth.com/mod/cem]",
+      "(YetAnotherConfigLib)[https://modrinth.com/mod/yacl]",
+      "(Fabric API)[https://modrinth.com/mod/fabric-api]",
+      "(Puzzle)[https://modrinth.com/mod/puzzle]",
+      "(Forge Config API Port)[https://modrinth.com/mod/forge-config-api-port]"
+    ]
+  }
+}

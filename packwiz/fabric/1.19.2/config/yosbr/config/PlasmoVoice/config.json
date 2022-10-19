@@ -2,7 +2,7 @@
   "servers": {
     "66.70.180.121": {
       "distance": 16,
-      "priorityDistance": 48
+      "priorityDistance": 164
     },
     "127.0.0.1": {
       "distance": 16,
@@ -21,7 +21,7 @@
   "voiceActivationThreshold": -30.0,
   "microphoneAmplification": 1.0,
   "rnNoise": false,
-  "microphoneMuted": false,
+  "microphoneMuted": true,
   "javaxCapture": false,
   "hrtf": false,
   "directionalSources": false,
