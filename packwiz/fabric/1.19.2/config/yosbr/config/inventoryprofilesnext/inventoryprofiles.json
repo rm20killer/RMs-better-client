@@ -1,0 +1,34 @@
+{
+    "ModSettings": {
+        "highlight_foused_items": {
+            "main": {
+                "keys": "LEFT_ALT",
+                "settings": {
+                    "activate_on": "BOTH"
+                }
+            },
+            "value": false
+        },
+        "first_run": false
+    },
+    "EditProfiles": {
+        "quick_slot_1_profile": "default"
+    },
+    "Hotkeys": {
+        "move_all_items": {
+            "main": {
+                "keys": "BUTTON_4"
+            }
+        },
+        "save_as_profile": {
+            "main": {
+                "keys": "LEFT_CONTROL,LEFT_SHIFT,P"
+            }
+        }
+    },
+    "Tweaks": {
+        "prevent_close_gui_drop_item": {
+            "value": true
+        }
+    }
+}
