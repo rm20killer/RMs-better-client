@@ -1,12 +1,12 @@
 name = "RM's better client"
 author = "RM20"
-version = "0.1.0"
+version = "0.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e2dfb293f6bbfcffc85ed69943a3c46d0509f2f6505a14350df3079ee74330ad"
+hash = "83adf75ef460fe831784e4ce666c36e8b9c63ad6bfc7a80354f1f9b9c8c19ad6"
 
 [versions]
 fabric = "0.14.9"
