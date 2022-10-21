@@ -955,6 +955,21 @@ hash = "a4aea0e6e7d7a44517767d45e003b601d587648dc0a61ef733afaca6ded2db09"
 metafile = true
 
 [[files]]
+file = "mods/advancedchatbox.pw.toml"
+hash = "72d445742263c1edf802e612aaf84dfcf20de87206e9b15bb0e287a8e25c0482"
+metafile = true
+
+[[files]]
+file = "mods/advancedchatcore.pw.toml"
+hash = "b4d8bcfadc7390ef799d08e379b1ab045658fd495b15f357ea9f37ec88745071"
+metafile = true
+
+[[files]]
+file = "mods/advancedchathud.pw.toml"
+hash = "13ab56d507eca1d0a2c4d61b5cee09fa76e29daa3a17004f9e398f9af88ec154"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "813c9e3195948559d0daeb5a03ac0169645719c01a9604bebc61ae71d03525a0"
 metafile = true
@@ -972,6 +987,11 @@ metafile = true
 [[files]]
 file = "mods/antighost.pw.toml"
 hash = "242e18d68cb8d218df43e713e97239631f8612384789068659c4898cfa49fcef"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
 
 [[files]]
@@ -1019,6 +1039,11 @@ hash = "ccc10f99cb19427bbe111efeecce5c2934a02d4294b2fedc3ef1e7fdc60771d3"
 metafile = true
 
 [[files]]
+file = "mods/chat-coords.pw.toml"
+hash = "678eeb01a4231dbe2122f651c92a785705ed5d7a9ef56a2081b480c3b9f0a63a"
+metafile = true
+
+[[files]]
 file = "mods/chest-tracker.pw.toml"
 hash = "e738ce4b02b355263d07b09a2ed59ee77d6fed90836dda50d040230781a2d6f0"
 metafile = true
@@ -1046,6 +1071,11 @@ metafile = true
 [[files]]
 file = "mods/colormatic.pw.toml"
 hash = "c49d1423a5f2563335fd5719862a861c8ae2c9cbc46598e767c3e2fe1042ecae"
+metafile = true
+
+[[files]]
+file = "mods/command-block-ide.pw.toml"
+hash = "23c171d5b75def7e4ef4e7e2bcfe0dd7af92e81f3f5e3b77b88cfc3deaf93611"
 metafile = true
 
 [[files]]
@@ -1294,6 +1324,11 @@ hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
 metafile = true
 
 [[files]]
+file = "mods/nbt-editor.pw.toml"
+hash = "a33ab897da065594aa9345a0aa485b7278312c086ccd3ce51be7661186d067b9"
+metafile = true
+
+[[files]]
 file = "mods/nbttooltip.pw.toml"
 hash = "c91774e06dd72c1e54a749be3a60080f210266bbbaf5e3c1488929ae48f01767"
 metafile = true
@@ -1350,6 +1385,11 @@ metafile = true
 [[files]]
 file = "mods/replaymod.pw.toml"
 hash = "79721c68c3475400efab4fc288cc27e13d4337f649e1ca09527258c5abb49c52"
+metafile = true
+
+[[files]]
+file = "mods/shared-resources.pw.toml"
+hash = "8aba7640ea08076c6f2f305eb656bad0d7499593f01ad26258b7e5e7ae034e12"
 metafile = true
 
 [[files]]

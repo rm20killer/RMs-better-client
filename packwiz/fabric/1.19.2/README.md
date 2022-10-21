@@ -227,4 +227,21 @@ https://modrinth.com/mod/amecs
 
 https://modrinth.com/mod/simple-discord-rpc/
 
+https://modrinth.com/mod/appleskin
+
+https://modrinth.com/mod/nbt-editor
+
+
+https://modrinth.com/mod/advancedchatcore
+
+https://modrinth.com/mod/advancedchathud
+
+https://modrinth.com/mod/advancedchatbox
+
+https://modrinth.com/mod/chat-coords
+
+https://modrinth.com/mod/command-block-ide
+
+
+https://modrinth.com/mod/shared-resources (optinal)
 </details>
