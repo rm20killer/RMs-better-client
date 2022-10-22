@@ -11,7 +11,3 @@ hash = "f63fc17ed2a377eb295a2dc62e15b762b348765e"
 [update.modrinth]
 mod-id = "8CsGxc95"
 version = "OB7Sh6T9"
-
-[options]
-optional = true
-description = "A mod for sharing game files like resource packs, shaders, saves and more between separate Minecraft instances"
