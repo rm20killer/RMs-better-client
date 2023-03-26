@@ -1,13 +1,13 @@
 name = "NBT Editor"
-filename = "nbteditor-1.8.0.jar"
+filename = "nbteditor-1.10.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5Osk0m1G/versions/taEMdmRM/nbteditor-1.8.0.jar"
+url = "https://cdn.modrinth.com/data/5Osk0m1G/versions/Pn85Ca5G/nbteditor-1.10.0.jar"
 hash-format = "sha1"
-hash = "97a6da333e9dffe324ec4fef94b6690a416ffff2"
+hash = "7351afbfe8e88aaee039103edb59eda16821e85e"
 
 [update]
 [update.modrinth]
 mod-id = "5Osk0m1G"
-version = "taEMdmRM"
+version = "Pn85Ca5G"

@@ -1,0 +1,13 @@
+name = "FZMM"
+filename = "fzmm-mc1.19.4-0.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tAvlhiZW/versions/7poU7M1M/fzmm-mc1.19.4-0.2.2.jar"
+hash-format = "sha1"
+hash = "23ce0d21a7bbb0056b01def30f21d8ea7fd6181a"
+
+[update]
+[update.modrinth]
+mod-id = "tAvlhiZW"
+version = "7poU7M1M"

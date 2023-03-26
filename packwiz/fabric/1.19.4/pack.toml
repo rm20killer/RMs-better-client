@@ -1,0 +1,13 @@
+name = "RM's better client"
+author = "RM20"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7f7188935f4246099edd9a33088e15607db00837e23e34408296b2a8172baa7c"
+
+[versions]
+fabric = "0.14.18"
+minecraft = "1.19.4"
